@@ -4,7 +4,7 @@
 NIPT analysis pipeline, using WisecondorX for detecting aneuplodies and large CNVs, AMYCNE for FFY and PREFACE for FF prediction (optional). FluFFYPipe produces a variety of output files, as well as a per batch csv summary.
 
 <p align="center">
-<img src="https://github.com/J35P312/FluFFyPipe/blob/master/logo/fluffythesnail.jpg" width="400" height="400" >
+<img src="https://github.com/J35P312/FluFFyPipe/blob/master/logo/Fluffy-the-snail.jpg" width="400" height="400" >
 </p>
 
 
